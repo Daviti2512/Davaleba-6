@@ -1,0 +1,17 @@
+table{
+    border: solid 1px black;
+    width:  80%;
+    margin: auto;
+}
+
+tr,td{
+    border: solid 1px black;
+}
+
+button{
+    color: red;    
+}
+
+a{
+    text-decoration: none;
+}
